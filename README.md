@@ -1,21 +1,25 @@
-# Experiment 5 – Inter Process Communication (IPC)
+# Experiment 7 – Banker's Algorithm
 
 ## Aim
 
-To study and implement Inter Process Communication (IPC) and observe its execution and output.
+To implement the Banker's Algorithm for deadlock avoidance and verify whether the system is in a safe state.
 
 ## Program
 
-[View C Program](5program.c)
+[View C Program](7cprogram.c)
 
 ### Output
 
-![Output](5output.jpg)
+![C Program Output](7coutput.jpg)
 
 ## Shell Program
 
-[View Shell Program](5shell.sh)
+[View Shell Program](7shell.sh)
+
+### Shell Output
+
+![Shell Output](7shelloutput.jpg)
 
 ## Result
 
-Thus, the Inter Process Communication program was executed successfully and the output was verified.
+Thus, the Banker's Algorithm was implemented and executed successfully, and the output was verified.
