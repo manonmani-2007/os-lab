@@ -1,17 +1,5 @@
-# Experiment 2 – UNIX Commands and Shell Programming
-
-## Aim
-
-To study basic UNIX commands and shell programming.
-
-## Program
-
-[View Shell Program](exp2shell.sh)
-
-## Output
-
 ### Output 1
-![Output 1](ex2a.jpg)
+![Output 1](exp2a.jpg)
 
 ### Output 2
 ![Output 2](ex2b.jpg)
@@ -33,7 +21,3 @@ To study basic UNIX commands and shell programming.
 
 ### Output 8
 ![Output 8](ex2h.jpg)
-
-## Result
-
-Thus, the basic UNIX commands and shell programs were executed successfully and the outputs were verified.
