@@ -38,7 +38,7 @@ To implement and study different memory allocation methods.
 
 ### Shell Output
 
-![Program 3 Shell Output](11cshelloutput.jpg)
+![Program 3 Shell Output](11cshellouput.jpg)
 
 ---
 
