@@ -20,7 +20,7 @@ To implement and study different memory allocation methods.
 
 ### Output
 
-![Program 2 Output](11boutput.cjpg)
+![Program 2 Output](11boutput.jpg)
 
 ### Shell Output
 
