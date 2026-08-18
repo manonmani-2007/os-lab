@@ -27,7 +27,6 @@ To implement and study different memory allocation methods.
 ![Program 2 Shell Output](11bshelloutput.jpg)
 
 ---
----
 
 ## Program 3
 
@@ -49,11 +48,10 @@ To implement and study different memory allocation methods.
 
 ### Shell Output
 
-![Shell Program Output](11shelloutput.jpg)
+![Shell Program Output](11shellaoutput.jpg)
 
 ---
 
 ## Result
 
 Thus, the memory allocation programs were executed successfully and the outputs were verified.
-
