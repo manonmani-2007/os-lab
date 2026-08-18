@@ -50,6 +50,8 @@ To implement and study different memory allocation methods.
 
 ![Shell Program Output](11shelloutput.jpg)
 
+---
+
 ## Result
 
 Thus, the memory allocation programs were executed successfully and the outputs were verified.
