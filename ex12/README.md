@@ -14,7 +14,7 @@ To implement and study page replacement algorithms and observe their execution a
 
 ### Shell Output
 
-![Program 1 Shell Output](12ashelloutput.jpg)
+![Program 1 Shell Output](12ashelloutput.jpeg)
 
 ---
 
@@ -28,7 +28,7 @@ To implement and study page replacement algorithms and observe their execution a
 
 ### Shell Output
 
-![Program 2 Shell Output](12bshelloutput.jpg)
+![Program 2 Shell Output](12bshelloutput.jpeg)
 
 ---
 
@@ -38,7 +38,15 @@ To implement and study page replacement algorithms and observe their execution a
 
 ### Shell Output
 
-![Program 3 Shell Output](12cshelloutput.jpg)
+![Program 3 Shell Output](12cshelloutput.jpeg)
+
+---
+
+## Shell Program
+
+[View Shell Program](12shell.sh)
+
+---
 
 ## Result
 
